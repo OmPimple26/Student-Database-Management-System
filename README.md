@@ -44,22 +44,22 @@ It provides an easy-to-use interface for **managing students, faculty, and depar
 
 ## ⚡ Installation  
 
-# 1️⃣ Clone the repository
+### 1️⃣ Clone the repository
 git clone https://github.com/your-username/Student-Database-Management-System.git
 cd Student-Database-Management-System
 
-# 2️⃣ (Optional) Create & activate virtual environment
+### 2️⃣ (Optional) Create & activate virtual environment
 python -m venv venv
 venv\Scripts\activate   # On Windows
 source venv/bin/activate  # On Mac/Linux
 
-# 3️⃣ Install dependencies
+### 3️⃣ Install dependencies
 pip install -r requirements.txt
 
-# 4️⃣ (Optional) Generate fake data (10,000+ students & faculty)
+### 4️⃣ (Optional) Generate fake data (10,000+ students & faculty)
 python fake_data.py
 
-# 5️⃣ Run the Streamlit app
+### 5️⃣ Run the Streamlit app
 streamlit run app.py
 🔑 Admin Login
 Username: admin
