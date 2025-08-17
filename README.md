@@ -34,11 +34,13 @@ It provides an easy-to-use interface for **managing students, faculty, and depar
 
 ## 📂 Project Structure  
 
+```
 ├── app.py              # Main Streamlit App
 ├── database_setup.py   # Database schema & helper functions
 ├── fake_data.py        # Script to generate fake records
 ├── requirements.txt    # Python dependencies
 ├── university.db       # SQLite database file
+```
 
 ---
 
@@ -66,8 +68,8 @@ Username: admin
 
 Password: admin
 
-🤝 Contributing
+## 🤝 Contributing
 Contributions are welcome! Feel free to fork, open issues, or submit pull requests.
 
-📜 License
+## 📜 License
 This project is open-source and available under the MIT License.
